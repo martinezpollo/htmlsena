@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.c1{
+
+    margin-top: 60px;
+    background-color: #559f55;
+    height: 110px;
+    width: 1135px;
+}
+.escudo1 li
+{
+    padding: 30px;
+    list-style-type:none ;
+    float: left;
+}
